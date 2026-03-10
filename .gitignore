@@ -1,0 +1,11 @@
+# Ignore compiled binaries
+
+bin/
+*.exe
+*.class
+*.out
+
+# OS generated files
+
+Thumbs.db
+.DS_Store
