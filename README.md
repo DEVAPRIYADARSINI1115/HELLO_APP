@@ -1,33 +1,15 @@
-# \# Hello App
-
-# 
-
+\# Hello App
 # \## Project Overview
-
-# 
-
 # Hello App is a simple application created to demonstrate Git and GitHub workflow.
-
-# 
-
-# \## Purpose
-
-# 
-
+#\## Purpose 
 # The goal of this project is to practice:
-
-# 
-
-# \* Repository management
+\* Repository management
 
 # \* Branching strategies
 
 # \* Feature implementation
 
-# \* Pull requests
-
-# 
-
+\* Pull requests
 # \## Project Structure
 
 # 
