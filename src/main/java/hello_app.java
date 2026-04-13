@@ -6,15 +6,7 @@ public class HelloApp {
         if (args.length == 0) {
             message = "Hello, World!";
         } else {
-            StringBuilder nameBuilder = new StringBuilder();
-
-            for (String name : args) {
-                nameBuilder.append(name).append(", ");
-            }
-
-            // Remove last ", "
-            String names = nameBuilder.substring(0, nameBuilder.length() - 2);
-
+            String names = String.join(", ", args);
             message = "Hello, " + names + "!";
         }
 
