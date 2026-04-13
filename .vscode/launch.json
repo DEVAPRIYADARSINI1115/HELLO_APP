@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "HelloApp",
+      "request": "launch",
+      "mainClass": "HelloApp",
+      "projectName": "HELLO_APP_3fdc289f"
+    },
+    {
+      "type": "java",
+      "name": "HelloApp$HelloApp",
+      "request": "launch",
+      "mainClass": "HelloApp$HelloApp",
+      "projectName": "HELLO_APP_3fdc289f"
+    },
+    {
+      "type": "java",
+      "name": "Launch HelloApp",
+      "request": "launch",
+      "mainClass": "main.HelloApp",
+      "args": "Alice"
+    }
+  ]
+}
